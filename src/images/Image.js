@@ -1,0 +1,1 @@
+export  const   main_logo = "https://images.squarespace-cdn.com/content/v1/5bcbd53c7fdcb80a07996fa9/1540571878619-QN7X0KNZ6BRDWJ29SQCF/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/bookmyshow.comlogo.jpg?format=2500w"
